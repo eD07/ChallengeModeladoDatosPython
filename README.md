@@ -5,7 +5,9 @@ Este proyecto forma parte de mi formación en Modelado de Datos con Python en Al
 
 Se realiza un análisis exhaustivo de datos de ventas, clientes y logística para identificar el rendimiento de cada tienda y proporcionar recomendaciones informadas que faciliten la toma de decisiones.
 
+
 📊 Descripción del Dataset
+
 El conjunto de datos utilizado contiene información detallada sobre:
 
 🛒 Producto: Identificación del artículo vendido.
@@ -40,12 +42,16 @@ Costos promedio de envío.
 
 Análisis geográfico de ventas por ciudad.
 
+
+
 🛠️ Ejecución del Código
+
 Puedes ejecutar el análisis directamente en Google Colab:
 
-Abrir en 
+Abrir en https://drive.google.com/file/d/1YjYWnIyVP7--W9uxQ-d2awXGbHHjTyAO/view?usp=sharing
 
 También está disponible en el repositorio adjunto con el archivo .ipynb.
+
 
 🧰 Herramientas utilizadas
 Python 🐍
@@ -60,7 +66,10 @@ Matplotlib
 
 Folium (para mapas interactivos)
 
+
+
 📌 Resultados clave
+
 Las tiendas 2 y 3 presentan un rendimiento integral sólido y consistente.
 
 La tienda 1 destaca por volumen de ventas, pero con oportunidades de mejora en satisfacción y logística.
